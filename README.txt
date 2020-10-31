@@ -1,0 +1,3 @@
+
+Description: This is a game in which you play a wolf and you run around a field chasing and eating sheep. You need to eat as many sheep as possible, but also be careful not to run into the fence or be killed by an angry sheep.
+How to run: Go into the directory and type 'java SheepHunt 15 10' or whatever integers you want to use. The first integer is between 1 and 99 inclusive, and is the number of sheep that will be created. The second number is an integer from 0 to 99 inclusive, and is percent meanness of the sheep. The higher the percent meanness, the more likely it is the sheep will attack you on any turn.
